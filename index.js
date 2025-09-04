@@ -1,10 +1,10 @@
 const projectsData = {
     "es": [
         {
-            "title": "E-commerce Moderno",
-            "description": "Plataforma de comercio electrónico con diseño responsive y sistema de pago integrado.",
-            "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
-            "link": "#"
+            "title": "Restaurante Tex-Mex",
+            "description": "Pagina web informativa con Menu y Reseñas incluidas para restaurantes.",
+            "image": "https://unsplash.com/es/fotos/cEDxjZ1fFNA",
+            "link": "https://texmex-restaurant.netlify.app/"
         },
         {
             "title": "Dashboard Analítico",
@@ -263,4 +263,5 @@ function loadProjects(lang) {
         `;
         container.appendChild(projectCard);
     });
+
 }
