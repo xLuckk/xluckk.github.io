@@ -12,12 +12,6 @@ const projectsData = {
             "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
             "link": "#"
         },
-        {
-            "title": "Aplicación de Tareas",
-            "description": "Gestor de tareas personal con recordatorios y sincronización en la nube.",
-            "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1115&q=80",
-            "link": "#"
-        }
     ],
     "en": [
         {
@@ -32,12 +26,6 @@ const projectsData = {
             "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
             "link": "#"
         },
-        {
-            "title": "Task Management App",
-            "description": "Personal task manager with reminders and cloud synchronization.",
-            "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1115&q=80",
-            "link": "#"
-        }
     ]
 };
 
