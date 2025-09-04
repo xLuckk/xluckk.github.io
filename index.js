@@ -256,7 +256,7 @@ function loadProjects(lang) {
                     <h3 class="mb-3">${project.title}</h3>
                     <p class="flex-grow-1">${project.description}</p>
                     <a href="${project.link}" class="btn-neon btn-sm mt-auto align-self-start">
-                        ${lang === 'es' ? 'Ver Detalles' : 'View Details'}
+                        ${lang === 'es' ? 'Ver Pagina' : 'View Page'}
                     </a>
                 </div>
             </div>
