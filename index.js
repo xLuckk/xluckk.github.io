@@ -4,7 +4,7 @@ const projectsData = {
             "title": "Restaurante Tex-Mex",
             "description": "Pagina web informativa con Menu y Reseñas incluidas para restaurantes.",
             "image": "https://unsplash.com/es/fotos/cEDxjZ1fFNA",
-            "link": "https://texmex-restaurant.netlify.app/"
+            "link": "images/Screenshot_2_upscayl_3x_high-fidelity-4x-compressed.webp"
         },
         {
             "title": "Dashboard Analítico",
