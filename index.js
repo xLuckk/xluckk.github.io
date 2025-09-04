@@ -21,10 +21,10 @@ const projectsData = {
     ],
     "en": [
         {
-            "title": "Modern E-commerce",
-            "description": "E-commerce platform with responsive design and integrated payment system.",
-            "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
-            "link": "#"
+            "title": "Tex-Mex Restaurant",
+            "description": "Informative website with menu and reviews included for restaurants.",
+            "image": "https://unsplash.com/es/fotos/cEDxjZ1fFNA",
+            "link": "https://texmex-restaurant.netlify.app/"
         },
         {
             "title": "Analytics Dashboard",
@@ -265,3 +265,4 @@ function loadProjects(lang) {
     });
 
 }
+
