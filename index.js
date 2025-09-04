@@ -3,28 +3,28 @@ const projectsData = {
         {
             "title": "Restaurante Tex-Mex",
             "description": "Pagina web informativa con Menu y Reseñas incluidas para restaurantes.",
-            "image": "https://unsplash.com/es/fotos/cEDxjZ1fFNA",
-            "link": "images/Screenshot_2_upscayl_3x_high-fidelity-4x-compressed.webp"
+            "image": "images/Screenshot_1-compressed.webp",
+            "link": "https://texmex-restaurant.netlify.app/"
         },
         {
-            "title": "Dashboard Analítico",
-            "description": "Panel de control con visualización de datos en tiempo real para empresas.",
-            "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-            "link": "#"
+            "title": "Plataforma de Bienes Raíces",
+            "description": "Sitio web para listar y buscar propiedades inmobiliarias.",
+            "image": "images/Screenshot_2-compressed.webp",
+            "link": "https://prime-properties-realty.netlify.app/"
         },
     ],
     "en": [
         {
             "title": "Tex-Mex Restaurant",
             "description": "Informative website with menu and reviews included for restaurants.",
-            "image": "https://unsplash.com/es/fotos/cEDxjZ1fFNA",
+            "image": "images/Screenshot_1-compressed.webp",
             "link": "https://texmex-restaurant.netlify.app/"
         },
         {
-            "title": "Analytics Dashboard",
-            "description": "Control panel with real-time data visualization for businesses.",
-            "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-            "link": "#"
+            "title": "Dashboard Analítico",
+            "description": "Website for listing and searching real estate properties.",
+            "image": "images/Screenshot_2-compressed.webp",
+            "link": "https://prime-properties-realty.netlify.app/"
         },
     ]
 };
