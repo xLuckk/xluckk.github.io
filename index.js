@@ -12,6 +12,12 @@ const projectsData = {
             "image": "images/Screenshot_2-compressed.webp",
             "link": "https://prime-properties-realty.netlify.app/"
         },
+        {
+            "title": "Panadería Artesana",
+            "description": "Pagina web interactiva con Galeria y encargos en linea.",
+            "image": "images/Screenshot_3-compressed.webp",
+            "link": "https://sweet-dreams-bakery.netlify.app/"
+        },
     ],
     "en": [
         {
@@ -25,6 +31,12 @@ const projectsData = {
             "description": "Website for listing and searching real estate properties.",
             "image": "images/Screenshot_2-compressed.webp",
             "link": "https://prime-properties-realty.netlify.app/"
+        },
+        {
+            "title": "Artisan Bakery",
+            "description": "Interactive website with gallery and online orders.",
+            "image": "images/Screenshot_3-compressed.webp",
+            "link": "https://sweet-dreams-bakery.netlify.app/"
         },
     ]
 };
@@ -253,4 +265,5 @@ function loadProjects(lang) {
     });
 
 }
+
 
